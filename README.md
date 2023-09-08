@@ -1,4 +1,6 @@
-# Advanced Dynamic Programming (Minnesota Fall 2023)
+# Advanced Dynamic Programming 
+
+## Minnesota Fall 2023
 
 * Lecturer: John Stachurski
 * Dates: Mon Sept 11th -- Fri Sept 29th 

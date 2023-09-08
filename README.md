@@ -1,15 +1,14 @@
-# Minnesota 2023
+# Advanced Dynamic Programming 
 
-Advanced Dynamic Programming 
-John Stachurski
-Mon Sept 11th -- Fri Sept 29th 2023
+* John Stachurski
+* Mon Sept 11th -- Fri Sept 29th 2023
 
 
 ## Lecture times
 
-Mon: 8am--10am
-Wed: 9am--11am
-Fri: 9am--11am
+* Mon: 8am--10am
+* Wed: 9am--11am
+* Fri: 9am--11am
 
 
 ## Topic

@@ -18,7 +18,7 @@
 This is an advanced course on dynamic programming with a heavy dose of
 computation.  The course is based on the book [Dynamic Programming](https://dp.quantecon.org/), which is free to download (and
 forthcoming from Cambridge UP). Since the course is relatively advanced, I will
-skim chapters 1 ~ 3 and assume less advanced students who still wish to take the
+skim chapters 1 ~ 3 and less advanced students who wish to take the
 course can read them more carefully in their own time.
 
 Most of our focus will be on chapters 4 ~ 8.  Chapter 10 will probably be
@@ -70,7 +70,7 @@ modifying code, etc.
 
 1. Ch 1 slides --- highlights
 1. Ch 2 slides --- highlights
-1. An Introduction to Numba ([QE Numba lecture](https://jax.quantecon.org/newtons_method.html) and [QE Parallelization lecture](https://python-programming.quantecon.org/parallelization.html)
+1. An Introduction to Numba ([QE Numba lecture](https://python-programming.quantecon.org/numba.html) and [QE Parallelization lecture](https://python-programming.quantecon.org/parallelization.html)
 1. Julia - Fortran - Python horse race (`horse_race.ipynb` in notebooks folder)
 1. Assignment 2: Ergodicity  (due Mon 18th Sept)
 

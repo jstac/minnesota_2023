@@ -53,6 +53,8 @@ code, adding explanations between code blocks, squeezing out a bit more speed by
 modifying code, etc.
 
 
+
+
 ## Syllabus
 
 ### WEEK 1  
@@ -61,15 +63,14 @@ modifying code, etc.
 
 1. Intro to the course / housekeeping
 1. QuantEcon lecture: [Writing Good Code](https://python-programming.quantecon.org/writing_good_code.html)
-1. Julia quick start  (`julia_quickstart.ipynb` in notebooks folder)
 1. Ch 0 slides 
+1. Julia quick start  (`julia_quickstart.ipynb` in notebooks folder)
 1. Assignment 1: optimal savings with Julia (due Wed 13th Sept)
 
 
 #### Lecture 2 (Sept 13th)
 
 1. Ch 1 slides --- highlights
-1. Ch 2 slides --- highlights
 1. An Introduction to Numba ([QE Numba lecture](https://python-programming.quantecon.org/numba.html) and [QE Parallelization lecture](https://python-programming.quantecon.org/parallelization.html)
 1. Julia - Fortran - Python single thread horse race (`julia_numba_fortran_horse_race.ipynb` in notebooks folder)
 1. Assignment 2: Ergodicity  (due Mon 18th Sept)
@@ -77,10 +78,11 @@ modifying code, etc.
 
 #### Lecture 3 (Sept 15th)
 
-1. Ch 3 slides --- highlights
-1. Ch 4 slides --- highlights
+1. Ch 2 slides --- highlights
 1. QuantEcon lecture: [An Introduction to JAX](https://jax.quantecon.org/jax_intro.html)
 1. Numba - NumPy - JAX multithreading comparison (`numba_numpy_jax_horse_race.ipynb` in notebooks folder)
+
+
 
 
 ###   WEEK 2  
@@ -94,30 +96,31 @@ modifying code, etc.
 
 #### Lecture 5 (Sept 20th)
 
-1. Ch 5 slides
-1. QuantEcon lecture:  [Optimal Investment](https://jax.quantecon.org/opt_invest.html)
+1. Ch 3 slides --- highlights
+1. Ch 4 slides --- highlights
 
 
 #### Lecture 6 (Sept 22nd)
 
-1. Ch 6 slides
-1. Inventory SDD --- Julia version
 
+1. Ch 5 slides
+1. QuantEcon lecture:  [Optimal Investment](https://jax.quantecon.org/opt_invest.html)
 
 ###   WEEK 3  
 
 #### Lecture 7  (Sept 25th)
 
+1. Ch 6 slides
+1. Inventory SDD --- Julia version
 1. Assignment 4: Inventory SDD (due Fri 29th Sept)
-1. Ch 7 slides
 
 #### Lecture 8  (Sept 27th)
 
-1. Ch 8 slides
+1. Ch 7 slides
 
 #### Lecture 9  (Sept 29th)
 
-1. Ch 9 slides
+1. Ch 8 slides
 1. Assignment 5: TBD (due Friday 6th Oct)
 
 

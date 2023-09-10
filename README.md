@@ -53,10 +53,15 @@ code, adding explanations between code blocks, squeezing out a bit more speed by
 modifying code, etc.
 
 
+## Office hours
 
+I am in office 4-117.
+
+Office hours are 1pm -- 2pm Monday + Wednesday + Friday
+
+You can set up appointments at other times via email <john.stachurski@anu.edu.au>.
 
 ## Syllabus
-
 
 
 

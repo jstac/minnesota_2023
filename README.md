@@ -79,6 +79,11 @@ You can set up appointments at other times via email <john.stachurski@anu.edu.au
 #### Lecture 2 (Sept 13th)
 
 1. Ch 1 slides --- highlights
+    * Vector and matrix norms
+    * Neumann series lemma
+    * Banach's fixed point theorem
+    * Job search: VFI
+    * Job search: Continuation value method
 1. Julia - Fortran - Python single thread horse race (`julia_numba_fortran_horse_race.ipynb` in notebooks folder)
 1. Numba-based multithreading on the CPU (`numba_multithreading.ipynb` in notebooks folder)
 

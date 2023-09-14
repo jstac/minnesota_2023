@@ -90,9 +90,12 @@ You can set up appointments at other times via email <john.stachurski@anu.edu.au
 
 #### Lecture 3 (Sept 15th)
 
-1. Ch 2 slides --- highlights
-1. QuantEcon lecture: [An Introduction to JAX](https://jax.quantecon.org/jax_intro.html)
 1. Numba - NumPy - JAX multithreading comparison (`numba_numpy_jax_horse_race.ipynb` in notebooks folder)
+1. QuantEcon lecture: [An Introduction to JAX](https://jax.quantecon.org/jax_intro.html)
+1. Ch 2 slides --- highlights
+    * Convergence rates
+    * Nonnegative matrices
+    * Linear operators
 1. Assignment 2: Ergodicity  (due Wed 20th Sept)
 
 
@@ -101,6 +104,7 @@ You can set up appointments at other times via email <john.stachurski@anu.edu.au
 
 
 ###   WEEK 2  
+
 
 #### Lecture 4 (Sept 18th)
 
@@ -113,6 +117,7 @@ You can set up appointments at other times via email <john.stachurski@anu.edu.au
 1. Ch 3 slides --- highlights
 1. Ch 4 slides --- highlights
 1. Assignment 3:  Nonlinear asset pricing (due Mon 25th Sept)
+
 
 #### Lecture 6 (Sept 22nd)
 

@@ -95,6 +95,7 @@ You can set up appointments at other times via email <john.stachurski@anu.edu.au
 1. Ch 2 slides --- highlights
     * Convergence rates
     * Nonnegative matrices
+    * Perron--Frobenius theorem
     * Linear operators
 1. Assignment 2: Ergodicity  (due Wed 20th Sept)
 
@@ -108,14 +109,18 @@ You can set up appointments at other times via email <john.stachurski@anu.edu.au
 
 #### Lecture 4 (Sept 18th)
 
-1. QuantEcon lecture: [An Asset Pricing Problem](https://jax.quantecon.org/markov_asset.html)
-1. QuantEcon lecture: [Newton's Method via JAX](https://jax.quantecon.org/newtons_method.html)
-
+1. Ch 3 slides 
+    * Markov chains: foundations
+    * Discretization
+    * Valuation (constant discounting)
+    * Job search revisited
+1. Ch 4 slides 
+    
 
 #### Lecture 5 (Sept 20th)
 
-1. Ch 3 slides --- highlights
-1. Ch 4 slides --- highlights
+1. QuantEcon lecture: [An Asset Pricing Problem](https://jax.quantecon.org/markov_asset.html)
+1. QuantEcon lecture: [Newton's Method via JAX](https://jax.quantecon.org/newtons_method.html)
 1. Assignment 3:  Nonlinear asset pricing (due Mon 25th Sept)
 
 

@@ -160,7 +160,7 @@ println("\n\nSolving via HPI.\n\n")
 @timev σ_star_opi, v_star_hpi = opi(model);
 
 # Plot both policies
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(12, 10))
 ax.plot(w_grid, w_grid, "k--", label=L"45")
 ax.plot(w_grid, σ_star, lw=2, label="VFI")
 ax.plot(w_grid, σ_star_opi, "--", lw=2, label="HPI")
@@ -176,11 +176,11 @@ println("VFI completed in $vfi_time seconds.")
 opi_times = []
 for m in m_vals
     println("Running optimistic policy iteration with m=$m.")
-    opi_time = @elapsed σ_opi = opi(model, m=m)
+    opi_time = @elapsed σ_opi = opi(model, m=m, print_step=100)
     println("OPI with m=$m completed in $opi_time seconds.")
     push!(opi_times, opi_time)
 end
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(12, 10))
 ax.plot(m_vals, fill(vfi_time, length(m_vals)), 
         lw=2, label="value function iteration")
 ax.plot(m_vals, opi_times, 

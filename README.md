@@ -121,7 +121,7 @@ You can set up appointments at other times via email <john.stachurski@anu.edu.au
 
 1. QuantEcon lecture: [An Asset Pricing Problem](https://jax.quantecon.org/markov_asset.html)
 1. QuantEcon lecture: [Newton's Method via JAX](https://jax.quantecon.org/newtons_method.html)
-1. Assignment 3:  Nonlinear asset pricing (due Mon 25th Sept)
+1. Assignment 3:  Nonlinear asset pricing (due Wed 27th Sept)
 
 
 #### Lecture 6 (Sept 22nd)
@@ -134,23 +134,20 @@ You can set up appointments at other times via email <john.stachurski@anu.edu.au
 
 
 
-
-
 ###   WEEK 3  
 
 #### Lecture 7  (Sept 25th)
 
 1. Ch 6 slides
 1. Inventory SDD --- Julia version
-1. Assignment 4: Inventory SDD (due Fri 29th Sept)
 
 #### Lecture 8  (Sept 27th)
 
 1. Ch 7 slides
+1. Assignment 4: Inventory SDD (due Monday 2nd October)
 
 #### Lecture 9  (Sept 29th)
 
 1. Ch 8 slides
-1. Assignment 5: TBD (due Friday 6th Oct)
 
 
